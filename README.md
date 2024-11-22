@@ -13,7 +13,7 @@ This is a bundle of all current, original, and experimental/test PiStorm firmwar
 Boot the Pi from the SD card containing PiOS Lite, and login to the Pi when prompted.
 
 Clone the repository:
-`git clone https://github.com/LemaruX/PiStorm-Firmware`
+`git clone https://github.com/Frimples/PiStorm-Firmware`
 
 CD into the PiStorm-Firmware directory:
 `cd PiStorm-Firmware`
